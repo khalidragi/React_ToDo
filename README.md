@@ -38,5 +38,3 @@ I learned lots of useful aspects of **React JS** in this project:
 ## License
 
 This project is licensed under the MIT License.
-
-# React_ToDo
