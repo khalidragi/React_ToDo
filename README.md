@@ -1,5 +1,4 @@
 <!-- prettier-ignore -->
-Do   not    format   this
 ![alt text](https://github.com/khalidragi/Logo/blob/master/Logo.png "KR Design")
 
 # Simple React To-Do app
@@ -39,4 +38,5 @@ I learned lots of useful aspects of **React JS** in this project:
 ## License
 
 This project is licensed under the MIT License.
+
 # React_ToDo
