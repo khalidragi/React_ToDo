@@ -1,4 +1,4 @@
-Inline-style:
+
 ![alt text](https://github.com/khalidragi/Logo/blob/master/Logo.png "KR Design")
 
 # Simple React To-Do app
