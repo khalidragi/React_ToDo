@@ -9,15 +9,15 @@ This is a simple To-Do app, I create it as a part of my learning **React JS**, i
 
 I learned lots of useful aspects of **React JS** in this project:
 
-> Using create-react-app.
-> Understanding project structure.
-> Practicing with **JSX**
-> Using state and props.
-> Components usage and linking them by importing or passing props.
-> Event handling.
-> Master ES6+ Features Like _Arrow Functions_, _High order functions_, _Spread_ and _Destructuring_.
-> Including Semantic UI to the project.
-> **Git** usage by pushing the project to **GitHub** by SSH.
+> ##### Using create-react-app.
+> ##### Understanding project structure.
+> ##### Practicing with **JSX**
+> ##### Using state and props.
+> ##### Components usage and linking them by importing or passing props.
+> ##### Event handling.
+> ##### Master ES6+ Features Like _Arrow Functions_, _High order functions_, _Spread_ and _Destructuring_.
+> ##### Including Semantic UI to the project.
+> ##### **Git** usage by pushing the project to **GitHub** by SSH.
 
 ## Next Steps
 
