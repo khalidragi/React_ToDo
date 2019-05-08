@@ -40,7 +40,7 @@ TodoItem.propTypes = {
 
 const btnStyle = {
   fontWeight: 'bold',
-  background: '#ff0034',
+  // background: '#ff0034',
   color: '#fff',
   border: 'none',
   padding: '2px 7px',
