@@ -74,6 +74,10 @@ class App extends Component {
                     markComplete={this.markComplete}
                     deleteItem={this.deleteItem}
                   />
+                  <blockquote className='quote'>
+                    "Life is too complicated not to be orderly."
+                    <footer>_Martha Stewart</footer>
+                  </blockquote>
                 </React.Fragment>
               )}
             />

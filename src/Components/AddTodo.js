@@ -20,6 +20,7 @@ class AddTodo extends Component {
     return (
       <form style={{ display: 'flex' }} onSubmit={this.onSubmit}>
         <input
+          className='inputForm'
           type='text'
           name='title'
           placeholder='Add Todo..'
@@ -30,7 +31,7 @@ class AddTodo extends Component {
         <input
           className='btn'
           type='submit'
-          value='submit'
+          value='Submit'
           style={{ flex: '1' }}
         />
       </form>

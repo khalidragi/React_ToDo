@@ -30,6 +30,7 @@ I learned lots of useful aspects of **React JS** in this project:
 > - [React JS](https://reactjs.org/).
 > - [create-react-app](https://github.com/facebook/create-react-app).
 > - [Semantic UI React](https://react.semantic-ui.com/).
+> - [uuid](https://www.npmjs.com/package/uuid).
 
 ## Authors
 
